@@ -22,12 +22,12 @@
   3. **Create** the "<span style="color:orange"> *.bash_profile* </span>" file:
       * Navigate to your *Home* directory:
         * Linux terminal:
-        ```
+        ```console
         cd $Home
         ```
       * Create new file:
         * Linux terminal:
-        ```
+        ```console
         touch .bash_profile
         ```
 
