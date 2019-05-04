@@ -48,12 +48,12 @@
           ```
 
 ### Verification :white_check_mark:
-  * To verify and check dependencies:
+  * To verify and check dependencies, run the following command:
     
     * Linux terminal:
-    ```
-    flutter doctor
-    ```
+      ```console
+      flutter doctor
+      ```
 
 ### IDE extension
   * Once you verfied that flutter is accessable and installed. Start your prefered IDE and install the **flutter** extension.
